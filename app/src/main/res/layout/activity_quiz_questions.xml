@@ -29,7 +29,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:contentDescription="image"
-            tools:src="@drawable/ic_flag_of_australia"/>
+            tools:src="@drawable/qas"/>
         <LinearLayout
             android:id="@+id/ll_progress_details"
             android:layout_width="match_parent"

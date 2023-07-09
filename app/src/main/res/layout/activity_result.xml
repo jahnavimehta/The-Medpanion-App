@@ -20,14 +20,12 @@
         android:textColor="@android:color/white"
         android:textSize="25sp"
         android:textStyle="bold" />
-
     <ImageView
         android:id="@+id/iv_trophy"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:contentDescription="image"
         android:src="@drawable/qas33" />
-
     <TextView
         android:id="@+id/tv_congratulations"
         android:layout_width="wrap_content"
@@ -37,7 +35,6 @@
         android:textColor="@android:color/white"
         android:textSize="25sp"
         android:textStyle="bold"/>
-
     <TextView
         android:id="@+id/tv_name"
         android:layout_width="wrap_content"
@@ -55,9 +52,6 @@
         android:textColor="@android:color/white"
         android:textSize="20sp"
         tools:text="Your Score is 3 out of 5" />
-
-
-
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btn_finish"
         android:layout_width="match_parent"
