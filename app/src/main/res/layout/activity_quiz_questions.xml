@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".QuizQuestionsActivity"
-    android:background="@drawable/qas14">
+    android:background="@drawable/qas_med">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -20,7 +20,8 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:gravity="center"
-            android:textColor="#363A43"
+            android:background="#77000000"
+            android:textColor="@color/white"
             android:textSize="22sp"
             tools:text="what country does this flag belong to?"/>
         <ImageView
@@ -29,7 +30,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:contentDescription="image"
-            tools:src="@drawable/qas"/>
+            tools:src="@drawable/qas3"/>
         <LinearLayout
             android:id="@+id/ll_progress_details"
             android:layout_width="match_parent"
@@ -42,6 +43,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
+                android:background="#77000000"
                 style="?android:attr/progressBarStyleHorizontal"
                 android:indeterminate="false"
                 android:max="5"
@@ -53,6 +55,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:padding="15dp"
+                android:background="#77000000"
                 android:textColorHint="#7A8089"
                 android:textSize="14sp"
                 tools:text="5/10"/>
@@ -67,7 +70,7 @@
             android:padding="15dp"
             android:textColor="#7A8089"
             android:textSize="18sp"
-            tools:text="Google"/>
+            tools:text="Option 1"/>
 
         <TextView
             android:id="@+id/tv_option_two"
@@ -82,7 +85,7 @@
             android:padding="15dp"
             android:textColor="#7A8089"
             android:textSize="18sp"
-            tools:text="Google" />
+            tools:text="Option 2" />
 
 
         <Button
@@ -96,5 +99,5 @@
             android:textSize="18sp"
             android:textStyle="bold" />
 
-       </LinearLayout>
+    </LinearLayout>
 </ScrollView>

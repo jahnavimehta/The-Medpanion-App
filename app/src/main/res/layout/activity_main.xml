@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:background="@drawable/qas11"
+    android:background="@drawable/qas_main"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -18,8 +18,8 @@
         android:layout_marginBottom="30dp"
         android:gravity="center"
         android:text="Cancer Detector"
-        android:textColor="@color/white"
-        android:textSize="25sp"
+        android:textColor="@color/black"
+        android:textSize="40sp"
         android:textStyle="bold" />
 
     <com.google.android.material.card.MaterialCardView
@@ -27,7 +27,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
-        android:background="#0077b6"
+        android:background="@color/white"
+        app:cardBackgroundColor="#77000000"
         android:elevation="5dp"
         app:cardCornerRadius="8dp">
 
@@ -43,18 +44,10 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="Welcome"
-                android:textColor="#363A43"
+                android:textColor="@color/white"
                 android:textSize="30sp"
                 android:textStyle="bold" />
-            <TextView
-                android:id="@+id/scoreTell"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:gravity="center"
-                android:text="Note: Score >6=Safe,no need to visit doc!"
-                android:textColor="#7A8089"
-                android:textSize="16sp" />
+
 
 
             <TextView
@@ -64,7 +57,7 @@
                 android:layout_marginTop="16dp"
                 android:gravity="center"
                 android:text="Please enter your name."
-                android:textColor="#7A8089"
+                android:textColor="@color/white"
                 android:textSize="16sp" />
             <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/til_name"
@@ -80,8 +73,8 @@
                     android:imeOptions="actionGo"
                     android:hint="Name"
                     android:inputType="textCapWords"
-                    android:textColor="#363A43"
-                    android:textColorHint="#7A8089" />
+                    android:textColor="@color/white"
+                    android:textColorHint="@color/white" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <Button
@@ -90,7 +83,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:background="@color/white"
-                android:text="Start"
+                android:text="Start Diagnosis"
                 android:textColor="@android:color/white"
                 android:textSize="18sp" />
         </LinearLayout>

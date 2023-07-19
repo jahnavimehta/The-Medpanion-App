@@ -2,8 +2,8 @@ package com.example.quizapp
 
 object Constants {
     const val USER_NAME: String="user_name"
-    const val TOTAL_QUESTIONS: String="user_name"
-    const val CORRECT_ANSWERS: String="user_name"
+    const val TOTAL_QUESTIONS: String="total_questions"
+    const val CORRECT_ANSWERS: String="correct_answers"
 
 
     fun getQuestions(): ArrayList<Question>{
@@ -13,7 +13,7 @@ object Constants {
         val que1= Question(
             1,
             "Have you noticed any unexplained lumps or swelling in your body?",
-            R.drawable.qas,
+            R.drawable.qas3,
             "Yes, frequently",
             "No, not recently",
             2
@@ -24,7 +24,7 @@ object Constants {
         val que2= Question(
             2,
             "Have you experienced any significant and unexplained weight loss recently?",
-            R.drawable.qas2,
+            R.drawable.qas5,
             "Yes, frequently",
             "No, not recently",
             2
@@ -35,7 +35,7 @@ object Constants {
         val que3= Question(
             3,
             "Are you experiencing persistent and unexplained fatigue or weakness?",
-            R.drawable.qas3,
+            R.drawable.qas4,
             "Yes, frequently",
             "No, not recently",
             2
@@ -46,7 +46,7 @@ object Constants {
         val que4= Question(
             4,
             "Have you noticed any changes in your skin, such as darkening, yellowing, or excessive itching?",
-            R.drawable.qas4,
+            R.drawable.qas3,
             "Yes, frequently",
             "No, not recently",
             2
