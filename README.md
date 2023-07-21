@@ -74,6 +74,18 @@ Build and run the application on an emulator or physical device.
 ![Screenshot 4]([Screenshot_20230721_231909.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_231909.png)) ![Screenshot 5]([Screenshot_20230721_231952.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_231952.png)) ![Screenshot 6]([Screenshot_20230721_232018.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_232018.png))
 
 
+<p align="center">
+    <img src="[Screenshot_20230721_231724.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_231724.png)" alt="Screenshot 1" width="250">
+    <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="250">
+    <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="250">
+</p>
+
+<p align="center">
+    <img src="screenshots/screenshot4.png" alt="Screenshot 4" width="250">
+    <img src="screenshots/screenshot5.png" alt="Screenshot 5" width="250">
+    <img src="screenshots/screenshot6.png" alt="Screenshot 6" width="250">
+</p>
+
 
 
 ## Contributing
