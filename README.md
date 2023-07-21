@@ -68,10 +68,17 @@ Build and run the application on an emulator or physical device.
 ## Screenshots
 <p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
 
-![Screenshot_20230721_231724](https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/a4fef9ae-59df-42c8-b076-92bf48e84e13) ![Screenshot_20230721_231831](https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/a9f1888f-014d-451d-b738-e6c33d19d4ca) ![Screenshot_20230721_231854](https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/09b7336a-fd51-4303-8668-b8a0247622d4)
+<p align="center">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/a4fef9ae-59df-42c8-b076-92bf48e84e13" alt="Screenshot 1" width="250">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/a9f1888f-014d-451d-b738-e6c33d19d4ca" alt="Screenshot 2" width="250">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/09b7336a-fd51-4303-8668-b8a0247622d4" alt="Screenshot 3" width="250">
+</p>
 
-
-![Screenshot_20230721_231909](https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/26ac1833-f8c7-4117-a50d-18a5b3efcce9) ![Screenshot_20230721_231952](https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/b60b4eab-4497-427a-a156-e4ed7b7d3f07) ![Screenshot_20230721_232018](https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/35910859-7296-43f8-af52-44aeee44646f)
+<p align="center">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/26ac1833-f8c7-4117-a50d-18a5b3efcce9" alt="Screenshot 4" width="250">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/b60b4eab-4497-427a-a156-e4ed7b7d3f07" alt="Screenshot 5" width="250">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/35910859-7296-43f8-af52-44aeee44646f" alt="Screenshot 6" width="250">
+</p>
 
 
 
