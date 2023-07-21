@@ -50,25 +50,28 @@ Open the project in your preferred Android development environment (e.g., Androi
 Build and run the application on an emulator or physical device.
 
 ## Usage
-Launch the Medpanion App on your Android device.
+- Launch the Medpanion App on your Android device.
 
-Answer the 5 questions presented in the app related to your symptoms by selecting the appropriate options.
+- Answer the 5 questions presented in the app related to your symptoms by selecting the appropriate options.
 
-Once all questions are answered, the app will calculate a final score based on your responses.
+- Once all questions are answered, the app will calculate a final score based on your responses.
 
-The app will then provide a suggestion on whether you should consider visiting a doctor or not.
+- The app will then provide a suggestion on whether you should consider visiting a doctor or not.
 
 ## Development Setup
-Install Android Studio and set up your development environment.
+- Install Android Studio and set up your development environment.
 
-Open the project in Android Studio.
+- Open the project in Android Studio.
 
-Make sure you have the necessary SDKs and dependencies installed.
+- Make sure you have the necessary SDKs and dependencies installed.
 
 ## Screenshots
 <p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
 
 
+![Screenshot 1](Screenshot_20230721_231724.png) ![Screenshot 2](Screenshot_20230721_231831.png) ![Screenshot 3](Screenshot_20230721_231854.png)
+
+![Screenshot 4](Screenshot_20230721_231909.png) ![Screenshot 5](Screenshot_20230721_231952.png) ![Screenshot 6](Screenshot_20230721_232018.png)
 
 
 
@@ -76,17 +79,17 @@ Make sure you have the necessary SDKs and dependencies installed.
 ## Contributing
 We welcome contributions to enhance the app and make it more effective in detecting potential cancer symptoms. If you want to contribute to the project, follow these steps:
 
-Fork the repository.
+- Fork the repository.
 
-Create a new branch.
+- Create a new branch.
 
-Make your changes and commit them.
+- Make your changes and commit them.
 
-Push the changes to your forked repository.
+- Push the changes to your forked repository.
 
-Open a pull request.
+- Open a pull request.
 
-Please ensure that your contributions align with the project's guidelines and coding standards.
+- Please ensure that your contributions align with the project's guidelines and coding standards.
 
 
 ## Contact
