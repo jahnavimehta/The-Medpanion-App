@@ -7,9 +7,11 @@ Your Medical-Companion!
 ## Table of Contents
 
 - [Project Description](#project-description)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Development Setup](#development-setup)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -19,6 +21,22 @@ The Medpanion App  is a Kotlin-based mobile application designed to assist users
 in making informed decisions about seeking medical attention for potential cancer symptoms. The app features 
 a user-friendly interface and incorporates advanced algorithms to present a concise questionnaire focused on crucial 
 cancer-related symptoms. Based on user responses, the app calculates a score and provides valuable suggestions to guide users in their decision-making process.
+
+
+## Screenshots
+<p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
+<p align="center">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/e9107eef-4ad7-460e-b69c-147390847df1" alt="Screenshot 1" width="250">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/a9f1888f-014d-451d-b738-e6c33d19d4ca" alt="Screenshot 2" width="250">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/09b7336a-fd51-4303-8668-b8a0247622d4" alt="Screenshot 3" width="250">
+</p>
+
+<p align="center">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/26ac1833-f8c7-4117-a50d-18a5b3efcce9" alt="Screenshot 4" width="250">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/b60b4eab-4497-427a-a156-e4ed7b7d3f07" alt="Screenshot 5" width="250">
+    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/35910859-7296-43f8-af52-44aeee44646f" alt="Screenshot 6" width="250">
+</p>
+
 
 ## Features
 
@@ -64,30 +82,6 @@ Build and run the application on an emulator or physical device.
 - Open the project in Android Studio.
 
 - Make sure you have the necessary SDKs and dependencies installed.
-
-## Screenshots
-<p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
-![Screenshot_20230721_235331](https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/e9107eef-4ad7-460e-b69c-147390847df1)
-
-
-
-
-<p align="center">
-    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/e9107eef-4ad7-460e-b69c-147390847df1" alt="Screenshot 1" width="250">
-    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/a9f1888f-014d-451d-b738-e6c33d19d4ca" alt="Screenshot 2" width="250">
-    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/09b7336a-fd51-4303-8668-b8a0247622d4" alt="Screenshot 3" width="250">
-</p>
-
-<p align="center">
-    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/26ac1833-f8c7-4117-a50d-18a5b3efcce9" alt="Screenshot 4" width="250">
-    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/b60b4eab-4497-427a-a156-e4ed7b7d3f07" alt="Screenshot 5" width="250">
-    <img src="https://github.com/jahnavimehta/The-Medpanion-App/assets/97538596/35910859-7296-43f8-af52-44aeee44646f" alt="Screenshot 6" width="250">
-</p>
-
-
-
-
-
 
 
 
