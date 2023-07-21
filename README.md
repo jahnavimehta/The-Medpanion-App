@@ -69,9 +69,9 @@ Build and run the application on an emulator or physical device.
 <p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
 
 
-![Screenshot 1](Screenshot_20230721_231724.png) ![Screenshot 2](Screenshot_20230721_231831.png) ![Screenshot 3](Screenshot_20230721_231854.png)
+![Screenshot 1]([Screenshot_20230721_231724.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_231724.png)) ![Screenshot 2]([Screenshot_20230721_231831.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_231831.png)) ![Screenshot 3]([Screenshot_20230721_231854.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_231854.png))
 
-![Screenshot 4](Screenshot_20230721_231909.png) ![Screenshot 5](Screenshot_20230721_231952.png) ![Screenshot 6](Screenshot_20230721_232018.png)
+![Screenshot 4]([Screenshot_20230721_231909.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_231909.png)) ![Screenshot 5]([Screenshot_20230721_231952.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_231952.png)) ![Screenshot 6]([Screenshot_20230721_232018.png](https://github.com/jahnavimehta/The-Medpanion-App/blob/Medpanion/Screenshots/Screenshot_20230721_232018.png))
 
 
 
