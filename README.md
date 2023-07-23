@@ -56,6 +56,33 @@ cancer-related symptoms. Based on user responses, the app calculates a score and
 
 - **Final Touches And Sending Data Via Intent - putExtra:** The app underwent meticulous fine-tuning to ensure a polished user experience, while relevant data was efficiently sent using the Intent's `putExtra` method to enhance the user's journey through the app.
 
+  <img src="https://github.com/jahnavimehta/My-GPT-App/assets/97538596/6b2cbb5e-cc2a-4a9d-b774-87f2bc944d51.png" alt="Screenshot 1" width="400"/>
+  <img src="https://github.com/jahnavimehta/My-GPT-App/assets/97538596/5e39fc01-604c-4b27-8a31-db79fa0b091b.png" alt="Screenshot 2" width="400"/>
+</p>
+
+## Technology Stack:
+
+-**Android App Development:** The app is developed for the Android platform, using the Android SDK and Kotlin programming language.
+
+-**User Interface (UI):** XML layout files: The user interface is defined using XML layout files to structure the app's views and widgets.
+
+-**Android Support Libraries:** The app uses several Android Support Libraries, including AppCompatActivity, MaterialCardView, and TextInputLayout, to implement modern UI components and features.
+
+-**Material Design:** The app follows the Material Design guidelines by utilizing MaterialCardView and other material design elements for a consistent and visually appealing user interface.
+
+-**Data Passing Between Activities:** The app passes data between activities using Intent.putExtra() and Intent.getIntExtra() methods. Data such as the user's name, total questions, and correct answers are transferred between activities using these mechanisms.
+
+-**User Input:** The app captures user input through an EditText widget, where users can enter their name.
+
+-**User Interaction:** User interaction is handled through Button click events and OnClickListener implementation.
+
+-**Conditional Logic:** The app uses conditional logic to check if the user's answer is correct and to display a suggestion to visit a doctor based on the number of correct answers.
+
+-**Styling and Theming:** The app utilizes styles and themes defined in styles.xml to customize the appearance of UI elements.
+
+-**UI Animation and Transition:** From the provided code, there are no explicit UI animations or transitions, but the app has the potential to implement them for a more engaging user experience.
+
+
 ## Installation
 
 1. Clone the repository:
