@@ -9,6 +9,7 @@ Your Medical-Companion!
 - [Project Description](#project-description)
 - [Screenshots](#screenshots)
 - [Features](#features)
+- [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development Setup](#development-setup)
@@ -56,9 +57,6 @@ cancer-related symptoms. Based on user responses, the app calculates a score and
 
 - **Final Touches And Sending Data Via Intent - putExtra:** The app underwent meticulous fine-tuning to ensure a polished user experience, while relevant data was efficiently sent using the Intent's `putExtra` method to enhance the user's journey through the app.
 
-  <img src="https://github.com/jahnavimehta/My-GPT-App/assets/97538596/6b2cbb5e-cc2a-4a9d-b774-87f2bc944d51.png" alt="Screenshot 1" width="400"/>
-  <img src="https://github.com/jahnavimehta/My-GPT-App/assets/97538596/5e39fc01-604c-4b27-8a31-db79fa0b091b.png" alt="Screenshot 2" width="400"/>
-</p>
 
 ## Technology Stack:
 
